@@ -1,0 +1,53 @@
+<div align="center">
+<h1>
+基础物理实验代码
+</h1>
+</div>
+
+---
+
+### 写在前面
+1. 本项目仅供娱乐，原因请看后续几条；
+2. 代码不保证正确，请自行承担使用后果；
+3. 其实手敲计算器也很快，写代码纯属闲的没事；
+4. 用了代码还是得把往公式里代数的过程写出来，甚至数据还要你自己填进代码里:persevere:。
+
+### 项目内容
+<style>
+.center 
+{
+  width: auto;
+  display: table;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 1px;
+}
+</style>
+
+<p align="center" style="margin-bottom: 0px;"><font face="黑体" size=3.>表1 已完成实验</font></p>
+
+<div class="center">
+
+|   序号   |   内容  |        注意         |
+|  :---:  |  :-----:  |  :---------------:  |
+|    1    |   稳态法   |  绘图部分有争议，暂不提供代码 |
+|    2    |  电位差计  | 仪器相关数据已填写，注意核对 |
+|    3    |  透镜焦距  | 选做实验注意核对代码思路</br>和自己的思路是否相同 |
+
+</div>
+
+### 注意
+1. requirements中的PhyExp包为作者自己编写的Python Package并上传至PyPI，详细代码可见[Github Project](https://github.com/Anthony-xyr/PhyExp)。无法保证正确，若发现代码有误请与作者联系；
+2. 从第二个实验开始，对每个需要使用者自行输入数据的地方进行了明确标注，其他未标注处的代码若非非常有自信请勿更改，或联系Anthony_cx@qq.com进行交流，代码示例如下：
+  ```python
+  ## 请勿修改begin和end外的代码
+
+  ## 填入数据 begin
+  # 室温
+  t = 2_._  # _表示需要填的一位或多位数字
+  # 标准电池20℃时的电动势
+  E20 = 1.018_ _
+  ## 填入数据 end
+
+  ## 请勿修改begin和end外的代码
+  ```
