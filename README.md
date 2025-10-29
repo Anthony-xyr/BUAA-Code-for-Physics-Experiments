@@ -10,31 +10,15 @@
 1. 本项目仅供娱乐，原因请看后续几条；
 2. 代码不保证正确，请自行承担使用后果；
 3. 其实手敲计算器也很快，写代码纯属闲的没事；
-4. 用了代码还是得把往公式里代数的过程写出来，甚至数据还要你自己填进代码里:persevere:。
+4. 用了代码还是得把往公式里代数的过程写出来，甚至数据还要你自己填进代码里。
 
 ### 项目内容
-<style>
-.center 
-{
-  width: auto;
-  display: table;
-  margin-left: auto;
-  margin-right: auto;
-  margin-top: 1px;
-}
-</style>
-
-<p align="center" style="margin-bottom: 0px;"><font face="黑体" size=3.>表1 已完成实验</font></p>
-
-<div class="center">
 
 |   序号   |   内容  |        注意         |
 |  :---:  |  :-----:  |  :---------------:  |
 |    1    |   稳态法   |  绘图部分有争议，暂不提供代码 |
 |    2    |  电位差计  | 仪器相关数据已填写，注意核对 |
 |    3    |  透镜焦距  | 选做实验注意核对代码思路</br>和自己的思路是否相同 |
-
-</div>
 
 ### 注意
 1. requirements中的PhyExp包为作者自己编写的Python Package并上传至PyPI，详细代码可见[Github Project](https://github.com/Anthony-xyr/PhyExp)。无法保证正确，若发现代码有误请与作者联系；
