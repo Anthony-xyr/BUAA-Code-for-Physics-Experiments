@@ -19,6 +19,7 @@
 |    1    |   稳态法   |  绘图部分有争议，暂不提供代码 |
 |    2    |  电位差计  | 仪器相关数据已填写，注意核对 |
 |    3    |  透镜焦距  | 选做实验注意核对代码思路</br>和自己的思路是否相同 |
+|    4    |  模量惯量  | 注意数据单位对应 |
 
 ### 注意
 1. requirements中的PhyExp包为作者自己编写的Python Package并上传至PyPI，详细代码可见[Github Project](https://github.com/Anthony-xyr/PhyExp)。无法保证正确，若发现代码有误请与作者联系；
